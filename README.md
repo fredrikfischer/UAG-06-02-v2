@@ -7,4 +7,4 @@ Detta är en webapplikation skapad på kursen "E-tjänster och programmering" p�
 - API från Leaflet används för tjänstens kartfunktion.
 - I appens flöde kan användare manuellt filtrera aktiviteter beroende på kategori, väder eller plats. 
 - API från openweathermap ger användaren möjlighet att automatiskt filtrera flöder beroende på nuvarande väderlek.
-- Användare kan recensera aktiviteter genom stjärnor (1-5) med medföljande kommentar.
+- Användare kan recensera aktiviteter genom stjärnor (1-5) och kommentarer.
